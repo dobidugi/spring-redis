@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: spring-redis
+  data:
+    redis:
+      host: localhost
+      port: 6379
+
+  devtools:
+    restart:
+        enabled: true
